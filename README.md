@@ -1,4 +1,4 @@
-## Hellouu, eu sou a Milene!
+## Hellouu, eu sou a Milene! 🌼
 -💻 Hoje eu trabalho como Quality Assurance Analyst
 
 -📓 No momento estou estudando e me aprofundando em Testes de Software
